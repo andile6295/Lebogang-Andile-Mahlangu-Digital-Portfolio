@@ -26,4 +26,5 @@
 - HTML
 - React Native (Still learning)
 
-
+# Mock Interview
+[watch mock interview](Mock Interview(1)(1).mp4)
