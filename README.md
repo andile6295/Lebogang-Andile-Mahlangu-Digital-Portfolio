@@ -27,4 +27,10 @@
 - React Native (Still learning)
 
 # Mock Interview
-[watch mock interview](Mock Interview(1)(1).mp4)
+[watch mock interview]
+
+https://github.com/user-attachments/assets/010e38e2-94fa-4bc9-8590-6ba519dd6d01
+
+
+
+
