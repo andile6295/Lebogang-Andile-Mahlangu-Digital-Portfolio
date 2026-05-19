@@ -33,14 +33,14 @@ https://github.com/user-attachments/assets/010e38e2-94fa-4bc9-8590-6ba519dd6d01
 
 
 # PROJECTS EVIDENCE
-- See my screenchots for part of the Student Enrolment System
+- **See my screenchots for part of the Student Enrolment System**
 <img width="517" height="382" alt="EnrollSystem" src="https://github.com/user-attachments/assets/b32616d1-9f5e-445b-a753-8caaa2b5f1a5" />
 <img width="997" height="753" alt="Enroll" src="https://github.com/user-attachments/assets/ebe92164-f582-47a8-91b3-5f743b0b0160" />
 
-- See my screenchots for part of the Café Order System
+- **See my screenchots for part of the Café Order System**
 <img width="1182" height="1080" alt="lebza" src="https://github.com/user-attachments/assets/c63ead3f-091e-4754-9a11-f223e42f00c9" />
 
-- See my screenshots for part of the Smart Parking System
+- **See my screenshots for part of the Smart Parking System**
 <img width="1182" height="916" alt="Screenshot 2026-04-21 174854" src="https://github.com/user-attachments/assets/a89c41e2-cc12-41ea-9020-99847f973997" />
 <img width="1192" height="936" alt="Screenshot 2026-04-21 174951" src="https://github.com/user-attachments/assets/25d18191-55cd-45d3-8607-6ae8d548f5de" />
 
