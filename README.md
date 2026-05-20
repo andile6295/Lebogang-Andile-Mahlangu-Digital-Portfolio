@@ -39,6 +39,7 @@ https://github.com/user-attachments/assets/010e38e2-94fa-4bc9-8590-6ba519dd6d01
 
 - **See my screenchots for part of the Café Order System**
 <img width="1182" height="1080" alt="lebza" src="https://github.com/user-attachments/assets/c63ead3f-091e-4754-9a11-f223e42f00c9" />
+<img width="1239" height="933" alt="Snippet 2" src="https://github.com/user-attachments/assets/03e83c05-d8dc-4999-af19-d1c4256cb8c5" />
 
 - **See my screenshots for part of the Smart Parking System**
 <img width="1182" height="916" alt="Screenshot 2026-04-21 174854" src="https://github.com/user-attachments/assets/a89c41e2-cc12-41ea-9020-99847f973997" />
