@@ -97,7 +97,14 @@ This experience showed me that interviewing is a skill that improves with practi
 This experience taught me that deployment requires careful attention to detail. I learned the importance of file organisation, correct path referencing, and patience when debugging live hosting issues. It also increased my confidence in publishing professional web projects online.
 
 
-
+# AGILE TEAM CHARTER
+## Key Structural Elements of a Functional Agile Team Charter Include:
+- **Purpose & Mission:** Articulate the specific problem being solved, the target audience, and clear metrics that define team success.
+- **Roles & Accountability:** Clarifies cross-functional roles (e.g., Product Owner, Agile Lead, Operational Specialist, Developers/Analysts) to eliminate ambiguity in ownership.
+- **Working Agreements:** Codifies daily behavioral norms, meeting discipline, timeboxing, and standards for psychological safety.
+- **Cadence & Ceremonies:** Establishes the schedule, frequency, and time commitments for sprint planning, daily stand-ups, and retrospectives.
+- **Definition od Done (DoD):** Sets unambiguous, objective quality thresholds that any deliverable must meet before being marked complete.
+- **Decision-Making & Escalation:** Outlines how the team reaches consensus, when leardership steps in, and how deadlocks are resolved without stalling momentum.
 
 
 
