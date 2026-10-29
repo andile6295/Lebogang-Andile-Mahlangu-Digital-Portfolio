@@ -112,3 +112,107 @@ This experience taught me that deployment requires careful attention to detail. 
 
 
 
+
+
+# PRP370S ASSESSMENT 2: AGILE PORTFOLIO OF EVIDENCE
+
+This section follows the October 2026 Project Presentation 3 assessment brief. Each of the five assessment areas requires **evidence (10%)** and **reflection (10%)**. Evidence must come from actual project work; the prompts below are not substitutes for screenshots, documents, or personal reflections.
+
+## 1. Agile Team Charter: Evidence and Reflection
+
+The Agile Team Charter overview and its structural elements are already documented above in the existing **AGILE TEAM CHARTER** section.
+
+### Evidence (10%)
+- **Project/team:** [Add your project name and team context.]
+- **Charter artefact:** [Link to your actual charter document, screenshot, or repository file.]
+- **Your contribution:** [Explain which charter elements you helped define.]
+
+### Reflection (10%)
+- **Situation:** [What did the team need to agree on?]
+- **Task:** [What was your responsibility?]
+- **Action:** [How did you help define roles, working agreements, or decisions?]
+- **Result and learning:** [What changed, and what would you improve?]
+
+## 2. User Stories and Tasks: Evidence and Reflection
+
+A user story describes a feature from the user's point of view. Tasks break that story into smaller pieces of work.
+
+### Evidence (10%)
+Use real stories from your project, for example in the format:
+> As a [user role], I want [capability], so that [benefit].
+
+For each actual story, add its acceptance criteria, implementation tasks, and a screenshot or link to the story/task board.
+
+| User story / ID | Acceptance criteria | Implementation tasks | Evidence link |
+| --- | --- | --- | --- |
+| [Add actual story] | [What must be true?] | [List real tasks] | [Link or screenshot] |
+
+### Reflection (10%)
+- **Situation:** [What user need did the story address?]
+- **Task:** [How were you involved in breaking it down?]
+- **Action:** [How did you define acceptance criteria and tasks?]
+- **Result and learning:** [What did you learn about user-focused planning?]
+
+## 3. Product Backlog: Evidence and Reflection
+
+A product backlog is the prioritized list of features, fixes, and improvements needed for the product.
+
+### Evidence (10%)
+Add a link or screenshot of your actual prioritized product backlog, including priority and status.
+
+| Backlog item | Priority | Reason for priority | Status | Evidence |
+| --- | --- | --- | --- | --- |
+| [Actual item] | [High/Medium/Low] | [Reason] | [Status] | [Link] |
+
+### Reflection (10%)
+- **Situation:** [What competing requirements did the project have?]
+- **Task:** [What was your part in prioritization?]
+- **Action:** [How did you organize or revise backlog items?]
+- **Result and learning:** [What did you learn about scope and priorities?]
+
+## 4. Sprint Backlog: Evidence and Reflection
+
+A sprint backlog is the selected work and plan for meeting a specific sprint goal.
+
+### Evidence (10%)
+- **Sprint number and dates:** [Add actual dates.]
+- **Sprint goal:** [Add the real goal.]
+- **Selected product backlog items:** [List actual items.]
+- **Task assignments and progress:** [Link to your sprint board or screenshot.]
+- **Sprint outcome:** [State what was completed and what remained.]
+
+### Reflection (10%)
+- **Situation:** [What was planned for the sprint?]
+- **Task:** [What were you responsible for?]
+- **Action:** [How did you track and adjust your work?]
+- **Result and learning:** [What went well, what did not, and why?]
+
+## 5. Agile Logbook: Evidence and Reflection
+
+An Agile logbook records project activity, including stand-ups, sprint planning and retrospective notes.
+
+### Evidence (10%)
+Add genuine, dated entries from your own project work. A Trello board screenshot may support the logbook, but it does not replace dated notes.
+
+| Date | Activity / meeting | Work completed | Blocker / next step | Supporting evidence |
+| --- | --- | --- | --- | --- |
+| [Actual date] | [Stand-up/planning/review] | [Your work] | [Blocker/next step] | [Link] |
+
+### Reflection (10%)
+- **Situation:** [How did the team track work and communicate?]
+- **Task:** [What was your responsibility for updates?]
+- **Action:** [How did you record progress, blockers, or retrospective actions?]
+- **Result and learning:** [How did keeping a logbook affect your work?]
+
+## Evidence checklist before submission
+
+- [ ] Agile Team Charter: real evidence and personal reflection
+- [ ] User Stories and Tasks: real evidence and personal reflection
+- [ ] Product Backlog: real evidence and personal reflection
+- [ ] Sprint Backlog: real evidence and personal reflection
+- [ ] Agile Logbook: real evidence and personal reflection
+- [ ] Check all evidence links and images
+- [ ] Confirm GitHub Pages is published and opens correctly
+- [ ] Submit the GitHub Pages URL on Blackboard
+
+**Note:** The assessment requires individual work. Replace bracketed prompts with your own authentic evidence and experience. Do not present sample entries as completed project work.
