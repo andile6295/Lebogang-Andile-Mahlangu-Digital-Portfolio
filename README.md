@@ -97,16 +97,6 @@ This experience showed me that interviewing is a skill that improves with practi
 This experience taught me that deployment requires careful attention to detail. I learned the importance of file organisation, correct path referencing, and patience when debugging live hosting issues. It also increased my confidence in publishing professional web projects online.
 
 
-# AGILE TEAM CHARTER
-## Key Structural Elements of a Functional Agile Team Charter Include:
-- **Purpose & Mission:** Articulate the specific problem being solved, the target audience, and clear metrics that define team success.
-- **Roles & Accountability:** Clarifies cross-functional roles (e.g., Product Owner, Agile Lead, Operational Specialist, Developers/Analysts) to eliminate ambiguity in ownership.
-- **Working Agreements:** Codifies daily behavioral norms, meeting discipline, timeboxing, and standards for psychological safety.
-- **Cadence & Ceremonies:** Establishes the schedule, frequency, and time commitments for sprint planning, daily stand-ups, and retrospectives.
-- **Definition od Done (DoD):** Sets unambiguous, objective quality thresholds that any deliverable must meet before being marked complete.
-- **Decision-Making & Escalation:** Outlines how the team reaches consensus, when leardership steps in, and how deadlocks are resolved without stalling momentum.
-
-
 
 
 
@@ -115,104 +105,167 @@ This experience taught me that deployment requires careful attention to detail. 
 
 
 # PRP370S ASSESSMENT 2: AGILE PORTFOLIO OF EVIDENCE
+## Agile Team Charter: Evidence and Reflection
 
-This section follows the October 2026 Project Presentation 3 assessment brief. Each of the five assessment areas requires **evidence (10%)** and **reflection (10%)**. Evidence must come from actual project work; the prompts below are not substitutes for screenshots, documents, or personal reflections.
+### Evidence
+- [Agile Team Charter updated.pdf](https://github.com/user-attachments/files/34337920/Agile.Team.Charter.updated.pdf)
 
-## 1. Agile Team Charter: Evidence and Reflection
+- **Project/team:** Pretoria Prime Recycling
+- **Charter artefact:**<img width="1032" height="882" alt="Agile" src="https://github.com/user-attachments/assets/67e6da98-dd6e-49fc-bbf3-048ee5e114f7" />
 
-The Agile Team Charter overview and its structural elements are already documented above in the existing **AGILE TEAM CHARTER** section.
 
-### Evidence (10%)
-- **Project/team:** [Add your project name and team context.]
-- **Charter artefact:** [Link to your actual charter document, screenshot, or repository file.]
-- **Your contribution:** [Explain which charter elements you helped define.]
+- **Your contribution:** My contribution was to lead the product side of the project, understand what customers need, guide the team on what to develop, prioritise tasks, and approve the final work.
 
-### Reflection (10%)
-- **Situation:** [What did the team need to agree on?]
-- **Task:** [What was your responsibility?]
-- **Action:** [How did you help define roles, working agreements, or decisions?]
-- **Result and learning:** [What changed, and what would you improve?]
 
-## 2. User Stories and Tasks: Evidence and Reflection
+### Reflection
+**Situation:** 
+- The team needed to agree on the purpose and vision of Pretoria Prime Recycling, the responsibilities of each team member, and how we would work together to achieve our project objectives. We also needed to agree on how tasks would be allocated, how decisions would be made, and how communication would take place throughout the project.
+  
+**Task:** 
+- As the Product Owner, my responsibility was to ensure that the project had a clear direction and that the team's activities were aligned with the needs of our target customers in Silver Lakes, Pretoria. I was responsible for managing the product backlog, defining user stories, prioritising tasks, and ensuring that the project focused on solving the waste management and recycling challenges faced by homeowners.
 
-A user story describes a feature from the user's point of view. Tasks break that story into smaller pieces of work.
+**Action:** 
+- I helped define team responsibilities, prioritise project tasks, and establish clear communication and working agreements. I also guided product-related decisions to keep the team focused on its objectives.
+  
+**Result and learning:** 
+- The team gained a clearer understanding of individual responsibilities, improving communication and accountability. I learned the importance of teamwork, leadership, and effective decision-making.
 
-### Evidence (10%)
-Use real stories from your project, for example in the format:
-> As a [user role], I want [capability], so that [benefit].
+## User Stories and Tasks
 
-For each actual story, add its acceptance criteria, implementation tasks, and a screenshot or link to the story/task board.
 
-| User story / ID | Acceptance criteria | Implementation tasks | Evidence link |
-| --- | --- | --- | --- |
-| [Add actual story] | [What must be true?] | [List real tasks] | [Link or screenshot] |
+### Evidence
 
-### Reflection (10%)
-- **Situation:** [What user need did the story address?]
-- **Task:** [How were you involved in breaking it down?]
-- **Action:** [How did you define acceptance criteria and tasks?]
-- **Result and learning:** [What did you learn about user-focused planning?]
+**This user stories belong to Sprint 5 (Day 3):**
+https://trello.com/b/PBGG0Zb2/pretoria-prime-recycling-product-backlog
+> As a user, I want to edit my address and household details in my profile so my pickup info stays accurate.
 
-## 3. Product Backlog: Evidence and Reflection
+**Task breakdown:**
+1. Build profile edit screens (address and household details)
+2. Add validation so address and suburb fields cannot be empty.
+3. Connect the saved address to the user's pickup schedule.
 
-A product backlog is the prioritized list of features, fixes, and improvements needed for the product.
+<img width="747" height="717" alt="121212" src="https://github.com/user-attachments/assets/27b8917b-36f8-419f-8384-6c4d7311642b" />
 
-### Evidence (10%)
-Add a link or screenshot of your actual prioritized product backlog, including priority and status.
 
-| Backlog item | Priority | Reason for priority | Status | Evidence |
-| --- | --- | --- | --- | --- |
-| [Actual item] | [High/Medium/Low] | [Reason] | [Status] | [Link] |
 
-### Reflection (10%)
-- **Situation:** [What competing requirements did the project have?]
-- **Task:** [What was your part in prioritization?]
-- **Action:** [How did you organize or revise backlog items?]
-- **Result and learning:** [What did you learn about scope and priorities?]
 
-## 4. Sprint Backlog: Evidence and Reflection
+### Reflection
 
-A sprint backlog is the selected work and plan for meeting a specific sprint goal.
+**Situation:**
+- The team needed to develop a profile management feature that allows users to edit their address and household details to ensure accurate recycling pickup information.
+  
+**Task:**
+- My responsibility was to define the user story and identify the requirements needed for users to update their profile information.
 
-### Evidence (10%)
-- **Sprint number and dates:** [Add actual dates.]
-- **Sprint goal:** [Add the real goal.]
-- **Selected product backlog items:** [List actual items.]
-- **Task assignments and progress:** [Link to your sprint board or screenshot.]
-- **Sprint outcome:** [State what was completed and what remained.]
+**Action:**
+- We created a user story for editing address and household details. I also broke it down into tasks, including designing profile-editing screens, adding
+validation to prevent empty fields, and connecting the updated address to the pickup schedule.
 
-### Reflection (10%)
-- **Situation:** [What was planned for the sprint?]
-- **Task:** [What were you responsible for?]
-- **Action:** [How did you track and adjust your work?]
-- **Result and learning:** [What went well, what did not, and why?]
+**Result and learning:**
+- The user story, acceptance criteria and tasks were documented in GitHub and added to Sprint 5. I learned the importance of breaking requirements into smaller tasks and ensuring that features meet user needs.
 
-## 5. Agile Logbook: Evidence and Reflection
 
-An Agile logbook records project activity, including stand-ups, sprint planning and retrospective notes.
 
-### Evidence (10%)
-Add genuine, dated entries from your own project work. A Trello board screenshot may support the logbook, but it does not replace dated notes.
+
+
+
+
+## Product Backlog: Evidence and Reflection
+
+The **Pretoria Prime Recycling Product Backlog** is organised on Trello to manage and track the different tasks involved in developing the project. It brings together project planning, requirements gathering, system design, development, testing and finalisation activities. The board helps team members organise their responsibilities, monitor progress and ensure that tasks are completed according to the project plan. The table below summarises the tasks included in the Product Backlog.
+
+### Evidence 
+[View the product backlog on our Trello board](https://trello.com/b/PBGG0Zb2/pretoria-prime-recycling-product-backlog)
+
+| Backlog item | Priority | Reason for priority |
+| --- | --- | --- |
+| Concept Validation & Foundation | High | To check whether the recycling project is useful, achievable and solves a real community problem. |
+| Project Initiation | High | To define the project goals, scope and team responsibilities before starting development. |
+| Requirements Gathering | High | To identify what users need and what the recycling system must do. |
+| Planning & System Design | High | To plan how the system will work and create designs that guide development. |
+| Customer & Market Research | High | To understand the target users, their recycling challenges and the demand for the system. |
+| User Stories [Foundation] | High | To describe the basic features users need and help the team understand what to develop. |
+| Core Recycling Features [User Stories] | High | To identify the main recycling functions that must be developed for the system to meet its purpose. |
+
+### Reflection
+**Situation:**
+- During the Pretoria Prime Recycling project, we had several requirements that needed to be completed, including project planning, gathering requirements, system design and developing recycling features. We had to decide which tasks were most important and should
+be completed first.
+
+**Task:**
+- My role was to help prioritise the product backlog by identifying important tasks that needed to be completed before development could begin.
+
+**Action:**
+- I helped organise the backlog items on Trello and prioritised them based on their importance to the project. We gave high priority to requirements gathering, project planning, user stories and core recycling features because these tasks were important for building a working system.
+  
+**Result and learning:**
+- I learned that prioritising tasks helps the team focus on important features and manage time effectively. I also learned that understanding the project requirements and scope helps prevent confusion and ensures that the team works towards the same goal.
+
+## Sprint Backlog: Evidence and Reflection
+
+A sprint backlog contains the tasks selected from the product backlog that the team plans to complete during a specific sprint. For the Pretoria Prime Recycling project, we used Trello to organise tasks, assign responsibilities and track progress.
+
+### Evidence
+**Sprint number and dates:**
+- Sprint 1 (Day 1) – Concept Validation & Foundation. The Trello card shows a due date of 8 May at 5:00 PM, but the actual sprint start and end dates still need to be confirmed.
+  
+**Sprint goal:**
+- To validate the recycling business idea, understand waste management challenges in Silver Lakes and establish a foundation for the Pretoria Prime Recycling project.
+  
+**Selected product backlog items:**
+1. Document the core problem of poor waste management in Silver Lakes.
+2. Finalise the company name: Pretoria Prime Recycling.
+3. Define the target community boundaries within Silver Lakes.
+4. Write a one-page business concept summary.
+5. Draft the mission and vision statement.
+
+**Task assignments and progress:**
+- [This is the screenshot of the sprint board.]<img width="740" height="720" alt="Sprint 1" src="https://github.com/user-attachments/assets/031bfa86-29b8-42b9-a870-ac548ac4b271" />
+
+  
+**Sprint outcome:**
+- All five tasks were marked as completed, achieving 100% checklist completion. The team established the project's foundation by defining the recycling problem, identifying the target community, finalising the company name and preparing the business concept, mission and vision.
+
+**Sprint Backlog Evidence:** [View Sprint 1 on Trello]https://trello.com/c/hSbWdD2N/43-sprint-1-day-1-concept-validation-foundation
+
+### Reflection
+**Situation:**
+- During Sprint 1, our team focused on establishing the foundation of Pretoria Prime Recycling. We needed to understand the waste management problem in Silver Lakes, identify our target community and develop a clear business concept before moving forward.
+  
+**Task:**
+- My responsibility was to help manage and track the Sprint 1 activities on Trello, ensuring that the foundation tasks were recorded and their progress was updated.
+  
+**Action:**
+- I used Trello to monitor the sprint checklist and update the status of tasks as they were completed. I tracked activities such as documenting the waste management problem, finalising the company name, defining the target community and preparing the business concept. This helped keep the sprint progress organised and visible.
+
+
+**Result and learning:**
+- The sprint backlog reached 100% checklist completion, with all five tasks marked as completed. I learned that breaking down project activities into smaller tasks makes them easier to manage and track. I also learned the importance of completing the project foundation before moving on to development. Using Trello helped me understand how Agile teams monitor progress and organise their work.
+
+## Agile Logbook: Evidence and Reflection
+
+The Agile logbook records the activities, progress and challenges experienced during the Pretoria Prime Recycling project. Our team used Trello to organise tasks, monitor progress and keep track of completed work throughout the project.
+
+### Evidence
+
 
 | Date | Activity / meeting | Work completed | Blocker / next step | Supporting evidence |
 | --- | --- | --- | --- | --- |
-| [Actual date] | [Stand-up/planning/review] | [Your work] | [Blocker/next step] | [Link] |
+| 23 July 2026 | Sprint 1 Planning and Setup | Complete the foundation tasks and prepare for the next stage. | Complete the foundation tasks and prepare for the next stage. | Trello Sprint 1 |
+| 25 July 2026 | Sprint 1 Progress Update | Updated the Trello checklist, including the task to document poor waste management in Silver Lakes. | Continue working on the remaining foundation activities. | Trello Activity |
+| 6 August 2026 | Sprint Backlog Update | The Concept Validation & Foundation card was added to the Trello board, according to the activity history. | Review the sprint backlog and ensure the task statuses are accurate. | Trello Sprint Backlog |
 
-### Reflection (10%)
-- **Situation:** [How did the team track work and communicate?]
-- **Task:** [What was your responsibility for updates?]
-- **Action:** [How did you record progress, blockers, or retrospective actions?]
-- **Result and learning:** [How did keeping a logbook affect your work?]
+### Reflection
+**Situation:**
+- During the Pretoria Prime Recycling project, our team used Trello to organise tasks and track progress. We needed to make sure that project activities were recorded and that team members could see which tasks were completed and which still needed attention.
 
-## Evidence checklist before submission
+**Task:**
+- My responsibility was to help manage and update the sprint backlog by tracking the progress of assigned tasks and keeping the Trello board organised.
+  
+**Action:**
+- I used Trello to update task checklists and monitor progress. I recorded changes to tasks such as documenting the recycling problem, finalising the company name and defining the target community. I also reviewed the sprint backlog to identify tasks that still needed to be completed.
+  
+**Result and learning:**
+- Keeping track of project activities helped me understand the importance of regular updates and good communication in Agile projects. I learned that recording progress makes it easier to identify unfinished tasks, manage responsibilities and prepare for the next sprint. It also showed me how Trello can be used to keep a record of project activities.
 
-- [ ] Agile Team Charter: real evidence and personal reflection
-- [ ] User Stories and Tasks: real evidence and personal reflection
-- [ ] Product Backlog: real evidence and personal reflection
-- [ ] Sprint Backlog: real evidence and personal reflection
-- [ ] Agile Logbook: real evidence and personal reflection
-- [ ] Check all evidence links and images
-- [ ] Confirm GitHub Pages is published and opens correctly
-- [ ] Submit the GitHub Pages URL on Blackboard
 
-**Note:** The assessment requires individual work. Replace bracketed prompts with your own authentic evidence and experience. Do not present sample entries as completed project work.
